@@ -1,4 +1,3 @@
-# plagiarism-checker
 # 🧠 AI-Based Plagiarism Checker (Flask Web App)
 
 This is a Flask-based web application for detecting plagiarism in student assignments across subjects like **DBMS** and **COA**. It compares student submissions against multiple teacher-uploaded reference files and returns a plagiarism percentage. The app supports both direct text input and PDF file uploads.
